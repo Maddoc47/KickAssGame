@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>H:/Development/Game/Monogame/KickAss/KickAss/Content/my_font.spritefont</SourceFile>
+  <SourceTime>2016-04-16T20:23:46.4763118+02:00</SourceTime>
+  <DestFile>H:/Development/Game/Monogame/KickAss/KickAss/Content/bin/Windows/my_font.xnb</DestFile>
+  <DestTime>2016-07-29T22:42:44.8702644+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
